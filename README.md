@@ -87,6 +87,7 @@ This suggests that hierarchical clustering better captures the underlying custom
 ### 9. Cluster Interpretation & Business Insights
 
 <img width="450" height="528" alt="image" src="https://github.com/user-attachments/assets/90a491ae-878c-444f-b4e8-4e59303bb23f" />
+
 1.Cluster 0 – Family-Oriented Budget Shoppers
 - Low to moderate income and spending levels
 - Higher number of children
