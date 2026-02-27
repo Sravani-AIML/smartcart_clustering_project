@@ -78,6 +78,7 @@ This suggests that hierarchical clustering better captures the underlying custom
 1.KMeans Clustering
 <img width="449" height="435" alt="image" src="https://github.com/user-attachments/assets/fc10c8ba-3ccb-4a79-acf0-046ac4cf9ea9" />
 
+
 2.Agglomerative Clustering
 <img width="441" height="434" alt="image" src="https://github.com/user-attachments/assets/f6bc890f-2cd1-4994-aa00-1f5e694ae31a" />
 
